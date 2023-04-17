@@ -1,0 +1,16 @@
+
+User name - Ernest
+User password - 12345
+User photo - W:\Desktop\GriffithBerserk.png
+
+User name - Matvey
+User password - 4321
+User photo - W:\Desktop\GriffithBerserk.png
+
+User name - Ignat
+User password - 321321
+User photo - W:\Desktop\GriffithBerserk.png
+
+User name - Zhipara
+User password - 22228888
+User photo - W:\Desktop\GriffithBerserk.png
